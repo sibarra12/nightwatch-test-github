@@ -1,0 +1,26 @@
+{
+    "git.autofetch": true,
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "settingsSync.ignoredExtensions": [
+    ],
+    "settingsSync.ignoredSettings": [],
+    "workbench.iconTheme": "vscode-icons",
+    "cucumberautocomplete.steps": [
+        "/nightwatch/test/step_definitions/*.js",
+    ],
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "auto-rename-tag.activationOnLanguage": [
+        "*"
+    ],
+    "[feature]": {
+        "editor.formatOnSave": true,
+    },
+    "cucumberautocomplete.syncfeatures":"/nightwatch/test/features/*.feature",
+    "workbench.colorTheme": "Abyss",
+    "files.autoSave": "afterDelay",
+    "git.openRepositoryInParentFolders": "never",
+    "cucumberautocomplete.strictGherkinValidation": false,
+    "window.zoomLevel": 1,
+}
